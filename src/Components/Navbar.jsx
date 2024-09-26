@@ -3,7 +3,7 @@
 const Navbar = ({setCategory}) => {
   return (
     <div>
-      <nav className="navbar navbar-expand-bg bg-body-tertiary" data-bs-theme="dark">
+      <nav className="navbar navbar-expand-lg bg-body-tertiary" data-bs-theme="dark">
   <div className="container-fluid">
     <a className="navbar-brand" href="#">
       <span className="badge bg-warning text-dark fs-4">NewsFlash</span>
